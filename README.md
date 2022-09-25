@@ -34,7 +34,7 @@ decided to proceed with step-wise restoration of the the chain to fully function
 Currently operational infrastructure + Progress:
 
 [1] CryptoID block explorer - This was restored, along with correct labels for burn addresses: https://chainz.cryptoid.info/pot/#
-[2] SPV infrastructure - This includes ElectruX server - This is being worked on, and will be added to AtomicDEX when done.
+[2] SPV infrastructure - This includes ElectrumX server - This is being worked on, and will be added to AtomicDEX when done.
 
 Project updates?
 ----------------
