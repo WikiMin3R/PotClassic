@@ -25,11 +25,12 @@ Our solution?
 -------------
 
 According to the old saying - "Don't fix it if it ain't broken!" - A group of legacy Potcoin enthusiasts
-decided to proceed with step-wise restoration of the the chain to fully functional status, in the following stages:
+decided to proceed with step-wise restoration of the the chain to fully functional status, as PotClassic, 
+according to the following plan/stages:
 
 [1] Generation of sufficient UTXOs to allow seamless PoSV block generation again - This stage took >3 months
-[2] Restoration of SPV (i.e., ElectrumX) infrastructure that will enable multi-wallet additions for Potcoin
-[3] Gradual modernization of Potcoin code, into what will be called PotClassic...
+[2] Restoration of SPV (i.e., ElectrumX) infrastructure that will enable multi-wallet additions for PotClassic
+[3] Gradual modernization of PotClassic code, with the specific goal of achieving compability with Atomic Swaps.
 
 Currently operational infrastructure + Progress:
 
