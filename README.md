@@ -25,13 +25,13 @@ Our solution?
 According to the old saying - "Don't fix it if it ain't broken!" - A group of legacy Potcoin enthusiasts
 initiated a step-wise restoration of the the chain to fully functional status, according to the following plan/stages:
 
-[1] Generation of sufficient UTXOs to allow seamless PoSV block generation again - This stage took >3 months
-[2] Restoration of SPV (i.e., ElectrumX) infrastructure that will enable multi-wallet additions for Potcoin
+[1] Generation of sufficient UTXOs to allow seamless PoSV block generation again - This stage took >3 months; 
+[2] Restoration of SPV (i.e., ElectrumX) infrastructure that will enable multi-wallet additions for Potcoin; and 
 [3] Gradual modernization of Potcoin code, with the specific goal of achieving compability with Atomic Swaps.
 
 Currently operational infrastructure + Progress:
 
-[1] CryptoID block explorer - This was restored, along with correct labels for burn addresses: https://chainz.cryptoid.info/pot/#
+[1] CryptoID block explorer - This was restored, along with correct labels for burn addresses: https://chainz.cryptoid.info/pot/#; 
 [2] SPV infrastructure - This includes ElectrumX server - This is being worked on, and will be added to AtomicDEX when done.
 
 Project updates?
