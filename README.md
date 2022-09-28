@@ -12,6 +12,7 @@ Copyright (c) 2018-2022 InfiniLooP Developers
 What is PotClassic?
 -------------------
 
+PotClassic is a working description of the legacy Potcoin UTXO chain in its original format.
 The original Potcoin UTXO chain started on January 15th, 2014 - Making it a true crypto pioneer!
 Potcoin (POT) legacy is a continuation of the original Proof-of-Stake-Velocity (PoSV) chain of Potcoin (POT).
 The original chain transitioned from UTXO / PoSV block generation to tokenized (ERC-20) platform.
