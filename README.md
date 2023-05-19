@@ -18,7 +18,7 @@ Potcoin (POT) legacy is a continuation of the original Proof-of-Stake-Velocity (
 The original chain transitioned from UTXO / PoSV block generation to tokenized (ERC-20) platform.
 As a result, nearly 115 million legacy Potcoins were burn-swapped into ERC-20 POT token.
 There are still approximately 115 million legacy Potcoin remaining :) 
-This repository represents an independent effort to update / upgrade / functionalize the legacy UTXO chain.
+This repository represents an organized effort to update / upgrade / functionalize the legacy UTXO chain.
 
 Our solution?
 -------------
